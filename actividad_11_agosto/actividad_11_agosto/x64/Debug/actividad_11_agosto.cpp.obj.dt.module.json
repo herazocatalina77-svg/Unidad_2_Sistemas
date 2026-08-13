@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\actividad_11_agosto.obj",
+            "outputs": [
+                "x64\\Debug\\actividad_11_agosto.cpp.obj.dt.module.json",
+                "x64\\Debug\\actividad_11_agosto.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
