@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Mapa_Memoria_Clase_13_agosto.obj",
+            "outputs": [
+                "x64\\Debug\\Mapa_Memoria_Clase_13_agosto.cpp.obj.dt.module.json",
+                "x64\\Debug\\Mapa_Memoria_Clase_13_agosto.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

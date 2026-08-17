@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heraz\\OneDrive\\Desktop\\Repositorio\\Unidad_2_Sistemas\\EXPERIMENTO_2_13_AGOSTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37776FB-8660-48D9-BF15-244B55A02F5F}|EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.vcxproj|C:\\Users\\heraz\\OneDrive\\Desktop\\Repositorio\\Unidad_2_Sistemas\\EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E37776FB-8660-48D9-BF15-244B55A02F5F}|EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.vcxproj|solutionrelative:EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EXPERIMENTO_2_13_AGOSTO.cpp",
+              "DocumentMoniker": "C:\\Users\\heraz\\OneDrive\\Desktop\\Repositorio\\Unidad_2_Sistemas\\EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.cpp",
+              "RelativeDocumentMoniker": "EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.cpp",
+              "ToolTip": "C:\\Users\\heraz\\OneDrive\\Desktop\\Repositorio\\Unidad_2_Sistemas\\EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.cpp",
+              "RelativeToolTip": "EXPERIMENTO_2_13_AGOSTO\\EXPERIMENTO_2_13_AGOSTO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-13T19:49:24.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
